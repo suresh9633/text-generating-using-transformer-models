@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+/venv/
+/.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Hugging Face Trainer output
+/gpt2-fantasy-stories/
+/logs/
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
